@@ -30,10 +30,7 @@ __welcome-image__ file is used in the current set up to attach with mail.
 * Password - Sender password
 
 ## Requirements
-```xml
-1. poi
-2. javax.mail
-3. javax.Json
-```
+
+Maven is in place.
 
   
